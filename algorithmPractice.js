@@ -1,1 +1,1 @@
-console.log('출발');
+c;
