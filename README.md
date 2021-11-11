@@ -1,5 +1,7 @@
 # Basic-Algorithm
-Practicing basic coding algorithms
+- Practicing basic coding algorithms
+
+<br>
 
 ## [Day 0: Hello World](https://www.hackerrank.com/challenges/30-hello-world/problem)
 
@@ -14,6 +16,8 @@ Practicing basic coding algorithms
 ## 출력 형식
 
 - 'Hello, World.' 첫 번째 줄에 인쇄하고, 내용인 inputString을 두 번째 줄에 출력하도록 한다.
+ 
+<br>
 
 ## [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem?h_r=next-challenge&h_v=zen)
 
