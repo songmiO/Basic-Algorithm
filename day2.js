@@ -24,7 +24,7 @@ function solve(meal_cost, tip_percent, tax_percent) {}
 
 function main() {
   const meal_cost = parseFloat(readLine(1).trim());
-  console.log('check');
+
   const tip_percent = parseInt(readLine().trim(), 10);
 
   const tax_percent = parseInt(readLine().trim(), 10);
