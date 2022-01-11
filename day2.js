@@ -30,4 +30,5 @@ function main() {
   const tax_percent = parseInt(readLine().trim(), 20);
 
   solve(meal_cost, tip_percent, tax_percent);
+  console.log('확인');
 }
